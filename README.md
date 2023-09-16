@@ -84,7 +84,6 @@ Double click on the OS to power on the system and click on install ubuntu.
 ### STEP-12 :
 Restart again to complete the installation
 
-
 ![image](https://github.com/Jayabharathi3/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/120367796/9ad3995e-6f57-4ea7-8b02-553eee164ddf)
 
 
