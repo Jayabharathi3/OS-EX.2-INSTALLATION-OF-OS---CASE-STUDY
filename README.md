@@ -15,10 +15,12 @@ To install OS(Ubuntu) using VirtualBox.
 ### STEP-1
 Download Oracle Virtual box. Virtual box is a software that is used to download any OS virtually. Visit the website and download VirtualBox followed by finishing the installation in your PC.
 
+
 ![image](https://github.com/Jayabharathi3/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/120367796/797066c4-c399-4e3d-9e2a-6877f0ac4ab3)
 
 ### Step 2 : 
 Download any OS .Visit Ubuntu and download the latest version.
+
 
 ![image](https://github.com/Jayabharathi3/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/120367796/f1a54c04-d219-4ead-a8c5-e3923ec1e4c3)
 
@@ -34,24 +36,27 @@ Download any OS .Visit Ubuntu and download the latest version.
 ### STEP-4:
 Name the Operating system
 
+
 ![image](https://github.com/Jayabharathi3/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/120367796/43b45653-53a4-4c26-9c23-a6e116fe7bac)
 
 
 ### STEP-5 :
-
 Customize the memory size
+
 
 ![image](https://github.com/Jayabharathi3/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/120367796/b29ab2fe-d49d-4ff0-8b9f-6784a5f40b44)
 
 
 ### STEP-6 : 
 Customize the hard disk
+
+
 ![image](https://github.com/Jayabharathi3/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/120367796/10ccb652-4c23-4c1b-8902-9ea5fd35121c)
 
 
 ### STEP-7 :
-
 Customize the options that are required and Finish the steps. Include the iso file in storage and click OK.
+
 
 ![image](https://github.com/Jayabharathi3/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/120367796/6dea865d-8549-4e97-b35a-6388d62a71bf)
 
@@ -60,8 +65,8 @@ Customize the options that are required and Finish the steps. Include the iso fi
 
 
 ### STEP-8 :
-
 Double click on the OS to power on the system and click on install ubuntu.
+
 
  ![image](https://github.com/Jayabharathi3/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/120367796/a8e6b891-5320-4539-8da5-25b0c5f4258e)
 
@@ -88,8 +93,9 @@ Double click on the OS to power on the system and click on install ubuntu.
 
 
 ### STEP-12 :
-
 Restart again to complete the installation
+
+
 ![image](https://github.com/Jayabharathi3/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/120367796/9ad3995e-6f57-4ea7-8b02-553eee164ddf)
 
 
