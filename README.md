@@ -108,4 +108,4 @@ Restart again to complete the installation
 
 
 ## RESULT:
-    Thus the installation of the OS (Ubuntu) using VirtualBox is done successfully.
+  Thus the installation of the OS (Ubuntu) using VirtualBox is done successfully.
